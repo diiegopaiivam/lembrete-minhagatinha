@@ -1,0 +1,16 @@
+current directory: /var/www/html/lembretes/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/home/diego/.rvm/rubies/ruby-2.7.1/bin/ruby -I /home/diego/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0 -r ./siteconf20210811-9564-huf0e7.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /var/www/html/lembretes/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /var/www/html/lembretes/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /var/www/html/lembretes/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20210811-9564-p0n6se
